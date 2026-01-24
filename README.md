@@ -14,5 +14,5 @@ I work with **Data Structures & Algorithms** and build **full-stack applications
 - Improving problem-solving and clean coding practices
 
 ### 🔗 Profiles
-- GeeksforGeeks: <your-gfg-profile-link>
-- LinkedIn: <your-linkedin-profile-link>
+- GeeksforGeeks: <https://www.geeksforgeeks.org/profile/bhavyauprbbh5>
+- LinkedIn: <https://www.linkedin.com/in/bhavya-upreti-a21035300/>
