@@ -4,7 +4,7 @@ I work with **Data Structures & Algorithms** and build **full-stack applications
 
 ### 💻 Tech Stack
 - Frontend: React
-- Backend: NestJS
+- Backend: NestJS , node.js
 - Languages: JavaScript, TypeScript
 - Concepts: REST APIs, Authentication, Database Integration
 
